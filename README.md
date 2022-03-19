@@ -5,7 +5,7 @@
 
 **Passionate about design? An interest in creating digital platforms that provide an excellent user experience (UX)? This digital design and web development degree blends creative and technical skills, preparing you for an exciting career in digital communications.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Kergnync_x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Kergnync_x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 The course maintains a strong practical emphasis with a key focus on UX and usability – and you’ll be introduced to professional design and development workflows, user research, gathering requirements, sketching ideas, creating concepts, building prototypes, undertaking user experience (UX) evaluation and finally coding up digital products and applications.
