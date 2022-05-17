@@ -3,7 +3,10 @@
 ![Photo Skip Barden](digital-design-and-web-development-1.jpg)
 [Skip Barden DDWD Class of 2021](https://www.solent.ac.uk/news/solent-team-achieve-innovation-award-at-international-hackathon)
 
-**Passionate about design? An interest in creating digital platforms that provide an excellent user experience (UX)? This digital design and web development degree blends creative and technical skills, preparing you for an exciting career in digital communications.**
+## Passionate about design? An interest in creating digital platforms that provide an excellent user experience (UX)? This digital design and web development degree blends creative and technical skills, preparing you for an exciting career in digital communications.
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/Kergnync_x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 The course maintains a strong practical emphasis with a key focus on UX and usability – and you’ll be introduced to professional design and development workflows, user research, gathering requirements, sketching ideas, creating concepts, building prototypes, undertaking user experience (UX) evaluation and finally coding up digital products and applications.
 
@@ -37,6 +40,7 @@ Graduates will be able to pursue a wide range of careers options in digital prod
 ## Jack Pritchard WebDev class of 2019 gives his experience of studying at Solent
 
 <iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=e8fb2bf2-ce58-4b62-8cf0-a965009027ac&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 
 See what Jack is doing now: [linkedin.com ](https://www.linkedin.com/in/whatjackhasmade/)and[whatjackhasmade.co.uk](https://whatjackhasmade.co.uk/)
 
