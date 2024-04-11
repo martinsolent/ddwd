@@ -3,6 +3,8 @@
 ![Photo Skip Barden](digital-design-and-web-development-1.jpg)
 [Skip Barden DDWD Class of 2021](https://www.solent.ac.uk/news/solent-team-achieve-innovation-award-at-international-hackathon)
 
+#### This course is no longer running
+
 ## Passionate about design? An interest in creating digital platforms that provide an excellent user experience (UX)? This digital design and web development degree blends creative and technical skills, preparing you for an exciting career in digital communications.
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/Kergnync_x4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
